@@ -21,7 +21,7 @@ For those of you that have some that may appear at somepoint
 ## Traits
 Now choose a gender and age for each of them
 
-## Relationships
+## Family relationships
 To quote the text
 > Even before your adventuring career began, you had allies who supported you and rivals who sought to thwart your success. In some cases, your allies might be so devoted that they are indispensable companions, while your rivals are hateful enough to make them nothing short of mortal enemies.
 
@@ -34,13 +34,15 @@ roll on the following table to figure out which are good/ bad
 
 ![relationship table](./family_relationships.png)
 
-## relationships
+## Relationships
 At this point you should have gained some allies/ rivals from your backgroudnd and family.
 
 now roll (or choose) on the 2 tables to determine _why_ they are an ally or rival 
 
+### Allies
 ![ally table](./ally_table.png)
 
+### Rivals
 ![rival table](./rival_table.png)
 
 Now roll some identities for these allies and rivals.
@@ -53,17 +55,17 @@ Fateful moments are things in your past that have led to you choosing this adven
 
 Now assuming you rolled a fateful moment ( or perhaps multiple?) you can roll on the fateful moment table (or choose) for each of these.
 
-![fateful table1](./fateful_1.png)
-![fateful table2](./fateful_2.png)
 ![fateful table3](./fateful_3.png)
+![fateful table2](./fateful_2.png)
+![fateful table1](./fateful_1.png)
 
 then there's a bunch of info in the book about favourite foods and stuff. Feel free to invent your own :)
 
 ## Mysterious Secrets
 choose a mysterious secret if you want!
 
-![mystery table1](./mystery_1.png)
 ![mystery table2](./mystery_2.png)
+![mystery table1](./mystery_1.png)
 
 
 ## Prophecies
@@ -73,7 +75,7 @@ So this is an opportunity for you as a player to dictate the sort of hard points
 
 You should choose 3 prophecies that you wish to possibly expereience (I as the dm will do my best to accomodate).
 
-![prophecy table1](./prophecy_1.png)
-![prophect table2](./prophecy_2.png)
+![prophecy table2](./prophecy_2.png)
+![prophect table1](./prophecy_1.png)
 
 
